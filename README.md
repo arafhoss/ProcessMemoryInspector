@@ -20,8 +20,10 @@ This project is a simple C++ console application that demonstrates how process m
 g++ main.cpp -o MemoryInspector.exe
 ```
 ### Run
+```bash
 ./MemoryInspector.exe
+```
 ## Requirements
-Windows OS
-C++ compiler (MSVC or MinGW)
-Windows.h support
+- Windows OS
+- C++ compiler (MSVC or MinGW)
+- Windows.h support
