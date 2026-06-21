@@ -13,7 +13,7 @@ This project is a simple C++ console application that demonstrates how process m
 - Shows stack memory layout of variables
 - Continuously refreshes output in a loop for observation
 - 
-## 🖥️ Build & Run
+## Build & Run
 
 ### 1. Compile (MinGW)
 ```bash
