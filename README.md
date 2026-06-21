@@ -1,4 +1,4 @@
-# 📌 Process Memory Inspector (C++)
+# Process Memory Inspector (C++)
 
 ## About
 This project is a simple C++ console application that demonstrates how process memory works in Windows. It prints variable values, memory addresses, pointer chains, and the current process ID to help visualize how data is stored in memory.
